@@ -4,48 +4,48 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/a2bce999cef9e07d5621ac46bf510dac05c90866\"><strong>a</strong>2bce999cef9e07d5621ac46bf510dac05c90866</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/32900460d3ab23bf8b79ce830166c4191652c82d\">3290046</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/be46d3aeeb06315e5fe32fbd6ddb5bbb3a0e1e46\">be46d3a</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/e06a003fec42625bdc7b965384f89182cb1604d8\">e06a003</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/d751f8f209a2fd37e8f34f1c586ba508f37cc241\">d751f8f</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/a12e8cf7678f42da88f56821812b6c2f635a8689\">a12e8cf</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/bedd7e2ab1c04e77fb1454f0e5bdb7221b5ed67b\">bedd7e2</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-5.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/github-anniversary/github-anniversary-10.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/covid-19/covid-19.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
     "id": "public-keys-4",
     "tier": 4,
     "desc": "I have four public keys",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-4.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"from\".",
     "body": "My favorite commit message words are:\n\n1. from (used 84 times)\n2. bump (used 56 times)\n3. to (used 56 times)\n4. in (used 56 times)\n5. /frontend (used 54 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   }
 ]
