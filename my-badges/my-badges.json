@@ -45,7 +45,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"from\".",
-    "body": "My favorite commit message words are:\n\n1. from (used 105 times)\n2. bump (used 70 times)\n3. to (used 70 times)\n4. in (used 70 times)\n5. /frontend (used 68 times)",
+    "body": "My favorite commit message words are:\n\n1. from (used 126 times)\n2. bump (used 84 times)\n3. to (used 84 times)\n4. in (used 78 times)\n5. /frontend (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/ee7bdea7614a05d5b96ed91d0e23a43b6787e6ee\">ee7bdea</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/5da557495555f3a220fe97d877b0e52515ec86bb\">5da5574</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/00151da701e2eb46cd6695cd36525e3054e3f2db\">00151da</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   }
 ]
