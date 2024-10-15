@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. from (used 144 times)
-2. bump (used 96 times)
-3. to (used 96 times)
-4. in (used 88 times)
-5. /frontend (used 86 times)
+1. from (used 166 times)
+2. bump (used 112 times)
+3. to (used 110 times)
+4. in (used 100 times)
+5. /frontend (used 96 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
