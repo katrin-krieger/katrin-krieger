@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/045cd9d701630e6419733693e0cccdb31df9b492\">045cd9d</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/6be903fdcd1c4018409deadd579ac0e067bf108b\">6be903f</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/189af289222c63954c18f28d381b5e04545f1f31\">189af28</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/d7a1b54e4f90b6025163037aa51caa13341222c6\">d7a1b54</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/7c30ae33de37e44e3d4dc295c56ff97656b0a986\">7c30ae3</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/270a46684c0fd3da44eb51b6ffd3ea11ed29f1d8\">270a466</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/4f26fa77eb3d640b73f8b6fdb243a5925153f064\">4f26fa7</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/baff5dc7b6d08b0c84867e9d32e4666abbc69d28\">baff5dc</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/045cd9d701630e6419733693e0cccdb31df9b492\">045cd9d</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/6be903fdcd1c4018409deadd579ac0e067bf108b\">6be903f</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/189af289222c63954c18f28d381b5e04545f1f31\">189af28</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/d7a1b54e4f90b6025163037aa51caa13341222c6\">d7a1b54</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"bump\".",
-    "body": "My favorite commit message words are:\n\n1. bump (used 140 times)\n2. /frontend (used 114 times)\n3. merge (used 71 times)\n4. pull (used 70 times)\n5. request (used 70 times)",
+    "body": "My favorite commit message words are:\n\n1. bump (used 152 times)\n2. /frontend (used 124 times)\n3. merge (used 77 times)\n4. pull (used 76 times)\n5. request (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
