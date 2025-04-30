@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/d0a3e450c9e3be18204f80e95a6e8833e56898b2\">d0a3e45</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/8b20d5fd86a44ee616ba9e87efb52113306c88a0\">8b20d5f</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/eae79349e37c9293d96c6a486724f70f92f15d50\">eae7934</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/5494b532e2476d82f899a155be71b9c01868d13c\">5494b53</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/6f65293cb108bc314583cee02ee41cd5437b7c5b\">6f65293</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/4f26fa77eb3d640b73f8b6fdb243a5925153f064\">4f26fa7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/19eb83a4c85469ee738d5f0a31385a70e1f4cc36\">19eb83a</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/d0a3e450c9e3be18204f80e95a6e8833e56898b2\">d0a3e45</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/8b20d5fd86a44ee616ba9e87efb52113306c88a0\">8b20d5f</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/eae79349e37c9293d96c6a486724f70f92f15d50\">eae7934</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/5494b532e2476d82f899a155be71b9c01868d13c\">5494b53</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/6f65293cb108bc314583cee02ee41cd5437b7c5b\">6f65293</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -45,14 +45,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"bump\".",
-    "body": "My favorite commit message words are:\n\n1. bump (used 240 times)\n2. /frontend (used 188 times)\n3. merge (used 121 times)\n4. pull (used 120 times)\n5. request (used 120 times)",
+    "body": "My favorite commit message words are:\n\n1. bump (used 252 times)\n2. /frontend (used 200 times)\n3. merge (used 127 times)\n4. pull (used 126 times)\n5. request (used 126 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/ee7bdea7614a05d5b96ed91d0e23a43b6787e6ee\">ee7bdea</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/5da557495555f3a220fe97d877b0e52515ec86bb\">5da5574</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/00151da701e2eb46cd6695cd36525e3054e3f2db\">00151da</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/ea574c10fd984e64aec99bf9211022f846fcfaa4\">ea574c1</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/53ca69ae8f4e0250842e28d97642791ee249ee20\">53ca69a</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/29a84b943142a9616613b2aaee9ec49f02ebc478\">29a84b9</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/eca751b6523c1cc462f4dc63029aa2476f69477b\">eca751b</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/a0f5f7df445f557f24d0c4486bf57d379a5210f5\">a0f5f7d</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/ee7bdea7614a05d5b96ed91d0e23a43b6787e6ee\">ee7bdea</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
