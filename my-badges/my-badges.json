@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/19eb83a4c85469ee738d5f0a31385a70e1f4cc36\">19eb83a</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/d0a3e450c9e3be18204f80e95a6e8833e56898b2\">d0a3e45</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/8b20d5fd86a44ee616ba9e87efb52113306c88a0\">8b20d5f</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/eae79349e37c9293d96c6a486724f70f92f15d50\">eae7934</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/5494b532e2476d82f899a155be71b9c01868d13c\">5494b53</a>\n- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/6f65293cb108bc314583cee02ee41cd5437b7c5b\">6f65293</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/fc7dbde27c39617b7e3f6cd0b238f5e4f5a504c7\">fc7dbde</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/7b161132fd81e5f8a68f1da4dc972c204a223752\">7b16113</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/8eea6cfca0e6c730831f07407e7416edaf7e3241\">8eea6cf</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/8af39c8b0d7750d889db5dab941bf581299b5cca\">8af39c8</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/9ea9bac8ba9faacbbaab59aee1cd72b29aeef41d\">9ea9bac</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/19eb83a4c85469ee738d5f0a31385a70e1f4cc36\">19eb83a</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"bump\".",
-    "body": "My favorite commit message words are:\n\n1. bump (used 278 times)\n2. /frontend (used 220 times)\n3. merge (used 140 times)\n4. pull (used 139 times)\n5. request (used 139 times)",
+    "body": "My favorite commit message words are:\n\n1. bump (used 288 times)\n2. /frontend (used 230 times)\n3. merge (used 145 times)\n4. pull (used 144 times)\n5. request (used 144 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
