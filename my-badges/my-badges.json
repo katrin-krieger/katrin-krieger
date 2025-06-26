@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/a2bce999cef9e07d5621ac46bf510dac05c90866\"><strong>a</strong>2bce999cef9e07d5621ac46bf510dac05c90866</a>",
+    "body": "- <a href=\"https://github.com/katrin-krieger/software-patterns/commit/ae049700c92365b535938681c919651b18673a0a\"><strong>a</strong>e049700c92365b535938681c919651b18673a0a</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"bump\".",
-    "body": "My favorite commit message words are:\n\n1. bump (used 288 times)\n2. /frontend (used 230 times)\n3. merge (used 145 times)\n4. pull (used 144 times)\n5. request (used 144 times)",
+    "body": "My favorite commit message words are:\n\n1. bump (used 288 times)\n2. /frontend (used 230 times)\n3. merge (used 154 times)\n4. pull (used 153 times)\n5. request (used 153 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

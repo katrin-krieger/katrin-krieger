@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/katrin-krieger/pi-weather/commit/a2bce999cef9e07d5621ac46bf510dac05c90866"><strong>a</strong>2bce999cef9e07d5621ac46bf510dac05c90866</a>
+- <a href="https://github.com/katrin-krieger/software-patterns/commit/ae049700c92365b535938681c919651b18673a0a"><strong>a</strong>e049700c92365b535938681c919651b18673a0a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
