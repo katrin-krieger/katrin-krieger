@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/katrin-krieger/pi-weather/commit/520e8d64e8a47ababfff38d8debbe48983facf3d">520e8d6</a>
-- <a href="https://github.com/katrin-krieger/pi-weather/commit/fc7dbde27c39617b7e3f6cd0b238f5e4f5a504c7">fc7dbde</a>
-- <a href="https://github.com/katrin-krieger/pi-weather/commit/7b161132fd81e5f8a68f1da4dc972c204a223752">7b16113</a>
-- <a href="https://github.com/katrin-krieger/pi-weather/commit/8eea6cfca0e6c730831f07407e7416edaf7e3241">8eea6cf</a>
-- <a href="https://github.com/katrin-krieger/pi-weather/commit/8af39c8b0d7750d889db5dab941bf581299b5cca">8af39c8</a>
-- <a href="https://github.com/katrin-krieger/pi-weather/commit/9ea9bac8ba9faacbbaab59aee1cd72b29aeef41d">9ea9bac</a>
+- <a href="https://github.com/katrin-krieger/software-patterns/commit/bbebfc2a689b7053f6fa0658c3ff2f879e26c568">bbebfc2</a>
+- <a href="https://github.com/katrin-krieger/software-patterns/commit/240ae92848f6d9523db543995427c6f5ba15ce9b">240ae92</a>
+- <a href="https://github.com/katrin-krieger/software-patterns/commit/d3fd2e77a9bbbaf9343951a9fc4f2e156ce3dadb">d3fd2e7</a>
+- <a href="https://github.com/katrin-krieger/software-patterns/commit/d726e21f54d4749ebf4be38f59aed450ac795d63">d726e21</a>
+- <a href="https://github.com/katrin-krieger/pi-weather/commit/f0d2915de002f3f67595d4215c89d46ff9ccd790">f0d2915</a>
+- <a href="https://github.com/katrin-krieger/pi-weather/commit/e9e730aa218f3cd63ca355e5751970f1380a2714">e9e730a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
