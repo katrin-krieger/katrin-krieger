@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. bump (used 398 times)
-2. /frontend (used 306 times)
-3. merge (used 212 times)
-4. pull (used 211 times)
-5. request (used 211 times)
+1. bump (used 410 times)
+2. /frontend (used 316 times)
+3. merge (used 218 times)
+4. pull (used 217 times)
+5. request (used 217 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
