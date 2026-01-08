@@ -68,5 +68,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/f528e2d47bd59b06d5d26f2befe89c4c6ffad82e\">f528e2d</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/1ba0625439aec4b8ef73ed5bef29884b9968ebfe\">1ba0625</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/4092d5ddb086034abde9f260517e78d94b6b0d2c\">4092d5d</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/9bebbede42bffac3b0f06672267cc6a76a84447b\">9bebbed</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/ad38a8d2269e628311e54ea7da1017051db545c0\">ad38a8d</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/0bfe482bc625de24cb4fe3c013b0c32865b15676\">0bfe482</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/146a890503dfd8af4f362c30c0cc24d4272ecbf2\">146a890</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/96475456412dd06cbab6668901e1fb60945e3c73\">9647545</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/84e2551a3ff8f212c53712d16b978495c0e06e11\">84e2551</a>\n- <a href=\"https://github.com/katrin-krieger/pi-weather/commit/f0044a02523b3956a5d09989dc0690c23d160062\">f0044a0</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
